@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "new-bank-of-america-logo_750xx3000-1688-0-356.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "new-bank-of-america-logo_750xx3000-1688-0-357.jpeg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "new-bank-of-america-logo_750xx3000-1688-0-358.jpeg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
